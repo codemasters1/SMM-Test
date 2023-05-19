@@ -2,9 +2,9 @@
     
 <section class="my-3" id="section-intro">
 
-# Intro
+# SMM
 
-**smmbooster** is an online social media marketing tool (web application) built using laravel, this application allows you to sell your Social Media Marketing Services or resell other SMM panel services via api providers . You can provide quality and cheap SMM Services to your customers, they can buy all packages or services like Facebook likes, Instagram followers, Twitter followers, Youtube Viewers, website traffic and many more using your panel. You can create as many services & packages according to your expertise, this is a completely dynamic panel. Whether it is something you need for your social media accounts or you are a SMM services reseller.
+**SMM** is an online social media marketing tool (web application) built using laravel, this application allows you to sell your Social Media Marketing Services or resell other SMM panel services via api providers . You can provide quality and cheap SMM Services to your customers, they can buy all packages or services like Facebook likes, Instagram followers, Twitter followers, Youtube Viewers, website traffic and many more using your panel. You can create as many services & packages according to your expertise, this is a completely dynamic panel. Whether it is something you need for your social media accounts or you are a SMM services reseller.
 <div>
    :heart: If you like this script please give me a star ⭐ to encourage me to add more features 
  </div>
